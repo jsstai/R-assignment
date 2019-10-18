@@ -1,0 +1,2 @@
+"x"
+"1"	"SNPs.ZMMIL,ZMMLR,ZMMMR.chrom.2.incr.fang_et_al_genotypes.txt"
